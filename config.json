@@ -1,0 +1,34 @@
+{
+  "name": {
+    "zh-cn": "ESP32 蓝牙键盘",
+    "en": "ESP32 BLE Keyboard"
+  },
+  "description": {
+    "zh-cn": "铁熊出品：将掌控板模拟成蓝牙键盘",
+    "en": "This library allows you to make the ESP32 act as a Bluetooth Keyboard and control what it does."
+  },
+  "author": "铁熊",
+  "email": "xyxybot@gmail.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "bleKeyboard",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.1.0",
+      "board": [
+        "esp32"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "main.ts",
+        "libraries/libraries.zip"
+      ]
+    }
+  }
+}
