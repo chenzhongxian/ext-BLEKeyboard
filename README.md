@@ -6,11 +6,22 @@
 
 本扩展库仅限在 Mind+ 软件中使用，为 ESP32（掌控板）设计，可以将掌控板模拟成蓝牙键盘，支持媒体键，可以在 Mind+ 用户库中进行导入。
 
+Mind+ 软件版本要求：v1.6.2 正式版及以上。
+
+**注意：本扩展库暂时不能与 Wi-Fi 相关功能同时使用。**
+
 ## 链接
 
-- Mind+ 库地址：[https://github.com/chenzhongxian/ext-BLEKeyboard](https://github.com/chenzhongxian/ext-BLEKeyboard)
+- Mind+ 库地址：
+
+  Gitee 地址（适合国内用户）：[https://gitee.com/ironpanda/ext-BLEKeyboard](https://gitee.com/ironpanda/ext-BLEKeyboard)
+
+  GitHub 地址：[https://github.com/chenzhongxian/ext-BLEKeyboard](https://github.com/chenzhongxian/ext-BLEKeyboard)
+
 - Arduino库：ESP32 BLE Keyboard 库地址：[https://github.com/T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)
+
 - Mind+ 软件下载地址：[http://mindplus.cc](http://mindplus.cc)
+
 - Mind+扩展库教程：[https://mindplus.dfrobot.com.cn/extensions-user](https://mindplus.dfrobot.com.cn/extensions-user)
 
 ## Blocks
@@ -39,7 +50,7 @@ Arduino Uno    |             |               |             |
 
 ## 更新日志
 
-- V0.1.0，20200221，第一版发布
+- V0.1.0，20200221，第一版发布。
 
 ## 关注
 
