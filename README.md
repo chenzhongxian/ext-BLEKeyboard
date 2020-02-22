@@ -8,8 +8,6 @@
 
 Mind+ 软件版本要求：v1.6.2 正式版及以上。
 
-**注意：本扩展库暂时不能与 Wi-Fi 相关功能同时使用。**
-
 ## 链接
 
 - Mind+ 库地址：
@@ -22,7 +20,7 @@ Mind+ 软件版本要求：v1.6.2 正式版及以上。
 
 - Mind+ 软件下载地址：[http://mindplus.cc](http://mindplus.cc)
 
-- Mind+扩展库教程：[https://mindplus.dfrobot.com.cn/extensions-user](https://mindplus.dfrobot.com.cn/extensions-user)
+- Mind+ 扩展库教程：[https://mindplus.dfrobot.com.cn/extensions-user](https://mindplus.dfrobot.com.cn/extensions-user)
 
 ## Blocks
 
