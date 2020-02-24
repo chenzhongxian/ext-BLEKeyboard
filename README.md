@@ -36,11 +36,11 @@ MIT
 
 ## 硬件支持
 
-MCU                | JavaScript    | Arduino   | MicroPython    | Remarks
------------------- | :----------: | :----------: | :---------: | -----
-micro:bit        |             |               |             | 
-mPython(掌控版)        |             |        √      |             | 
-Arduino Uno    |             |               |             | 
+MCU                | JavaScript    | Arduino   | MicroPython    
+:----------------: | :----------: | :----------: | :---------: 
+micro:bit        |             |               |             
+mPython(掌控版)        |             |        √      |             
+Arduino Uno    |             |               |             
 
 ## 鸣谢
 
